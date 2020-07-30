@@ -1,0 +1,61 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Geladeiradddd",
+      "price": 5000
+    },
+    {
+      "name": "Monitor Sansug 15'",
+      "price": "400.00",
+      "id": 4
+    }
+  ],
+  "usuarios": [
+    {
+      "primeiroNome": "João Pedro",
+      "sobreNome": "Santos Alves",
+      "usuario": "darlanalp@gmail.com",
+      "senha": "123456",
+      "funcao": "XXXXx",
+      "dataNascimento": "2020-08-31",
+      "inativo": true,
+      "genero": 1,
+      "id": 1
+    },
+    {
+      "primeiroNome": "Aline Cristina",
+      "sobreNome": "Santos Alves",
+      "usuario": "AlineAlp",
+      "senha": "123456",
+      "funcao": "Engenheira",
+      "dataNascimento": "2020-07-22",
+      "inativo": false,
+      "genero": 2,
+      "observacao": "teste",
+      "id": 3
+    },
+    {
+      "primeiroNome": "Darlan Alvysson ",
+      "sobreNome": "Alves",
+      "funcao": "Analista de Sistemas",
+      "usuario": "darlanalp",
+      "genero": 1,
+      "dataNascimento": "1984-03-20",
+      "observacao": "teste",
+      "inativo": false,
+      "senha": "123456",
+      "id": 4
+    }
+  ]
+}
